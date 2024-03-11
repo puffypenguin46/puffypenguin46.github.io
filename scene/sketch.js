@@ -24,11 +24,11 @@ function setup() {
 
 function draw() {
   background(220);
-  sanya.position(900, 200)
-  sanya.size(windowWidth / 4, windowHeight / 4)
+  sanya.position(900, 200);
+  sanya.size(windowWidth / 4, windowHeight / 4);
 
-  up.position(200, 100)
-  up.size(windowWidth / 4, windowHeight / 4)
+  up.position(200, 100);
+  up.size(windowWidth / 8, windowHeight / 8);
 }
 
 
